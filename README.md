@@ -4,7 +4,7 @@
 
 1. Setup Android Studio
 
-2. git clone https://github.com/AhmedImtiazPrio/HeartnetAndroid.v1.git
+2. git clone https://github.com/ShamsNafisaAli/HeartnetAndroid.v1.git
 
 3. Checkout to branch v1.1
 
